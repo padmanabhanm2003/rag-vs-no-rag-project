@@ -1,0 +1,18 @@
+Company IT and Security Policy
+Version: 2026.4
+Effective date: April 1, 2026
+
+Password Requirements
+Employees must change their corporate password at least once every 90 days when the identity platform requires password rotation. Passwords must not be reused across unrelated personal services.
+
+Multi-Factor Authentication
+Multi-factor authentication is required for corporate applications that support it.
+
+Lost or Stolen Devices
+If a company laptop or mobile device is lost or stolen, the employee must immediately contact the IT Service Desk and Security team. The company may remotely lock or wipe managed devices.
+
+Phishing
+Employees must report suspected phishing messages through the company's security reporting mechanism and must not enter corporate credentials into suspicious links or forms.
+
+Access
+Employees must only access systems and documents necessary for their job responsibilities.

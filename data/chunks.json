@@ -1,0 +1,50 @@
+[
+  {
+    "id": "hr_policy-0",
+    "source": "hr_policy.txt",
+    "chunk_index": 0,
+    "text": "Company Human Resources Policy\nVersion: 2026.3\nEffective date: February 1, 2026\n\nPerformance Reviews\nThe company runs a formal performance review cycle once each calendar year. Managers are expected to conduct a review conversation with each direct report during the annual cycle.\n\nNew employees may receive an additional introductory review during their first six months.\n\nRemote Work\nEligible employees may work remotely up to three days per week, subject to team requirements and manager approval.\n\nEmployee Records\nEmployees should keep their personal contact and emergency information current in the HR system."
+  },
+  {
+    "id": "insurance_policy-0",
+    "source": "insurance_policy.txt",
+    "chunk_index": 0,
+    "text": "Employee Health Insurance Policy\nVersion: 2026.1\nEffective date: January 1, 2026\n\nMedical Plan\nThe standard employee medical plan has an annual in-network individual deductible of USD 1,500. The family deductible is USD 3,000.\n\nPreventive care is covered according to the plan's preventive-care provisions. Employees should review the plan summary for specific covered services.\n\nEnrollment\nNew employees generally have 30 days from their employment start date to complete benefits enrollment."
+  },
+  {
+    "id": "it_security_policy-0",
+    "source": "it_security_policy.txt",
+    "chunk_index": 0,
+    "text": "Company IT and Security Policy\nVersion: 2026.4\nEffective date: April 1, 2026\n\nPassword Requirements\nEmployees must change their corporate password at least once every 90 days when the identity platform requires password rotation. Passwords must not be reused across unrelated personal services.\n\nMulti-Factor Authentication\nMulti-factor authentication is required for corporate applications that support it.\n\nLost or Stolen Devices\nIf a company laptop or mobile device is lost or stolen, the employee must immediately contact the IT Service Desk and Security team. The company may remotely lock or wipe managed devices.\n\nPhishing\nEmployees must report suspected phishing messages through the company's security reporting mechanism and must not enter corporate credentials into suspicious links or"
+  },
+  {
+    "id": "it_security_policy-1",
+    "source": "it_security_policy.txt",
+    "chunk_index": 1,
+    "text": "es through the company's security reporting mechanism and must not enter corporate credentials into suspicious links or forms.\n\nAccess\nEmployees must only access systems and documents necessary for their job responsibilities."
+  },
+  {
+    "id": "leave_policy-0",
+    "source": "leave_policy.txt",
+    "chunk_index": 0,
+    "text": "Company Leave Policy\nVersion: 2026.2\nEffective date: January 1, 2026\n\nParental Leave\nEligible full-time employees receive 16 weeks of paid parental leave following the birth or legal adoption of a child. The leave may be taken continuously or, subject to manager approval and applicable law, in separate blocks.\n\nEmployees should notify their manager and Human Resources at least 30 days before a planned leave when reasonably possible. In unexpected circumstances, notice should be provided as soon as practical.\n\nParental leave is separate from the standard annual leave balance. Employees should contact Human Resources for questions about eligibility, documentation, or coordination with other legally protected leave.\n\nSick Leave\nEmployees receive 12 paid sick days per calendar year.\n\nAnnual"
+  },
+  {
+    "id": "leave_policy-1",
+    "source": "leave_policy.txt",
+    "chunk_index": 1,
+    "text": "dination with other legally protected leave.\n\nSick Leave\nEmployees receive 12 paid sick days per calendar year.\n\nAnnual Leave\nEmployees receive 20 days of paid annual leave per calendar year."
+  },
+  {
+    "id": "travel_policy-0",
+    "source": "travel_policy.txt",
+    "chunk_index": 0,
+    "text": "Company Travel and Expense Policy\nVersion: 2026.1\nEffective date: March 1, 2026\n\nFlights\nEconomy class is the standard class for domestic travel and international trips of less than six hours. Business class may be approved for international travel exceeding six hours when required by business needs.\n\nHotels\nThe standard reimbursement limit for hotel accommodation is USD 180 per night before applicable taxes. Exceptions require advance approval from the employee's department head.\n\nMeals\nEmployees traveling for business may claim up to USD 60 per day for meals. Individual meal receipts should be retained where required by the expense system.\n\nGround Transportation\nReasonable taxi, rideshare, rail, and public transportation expenses are reimbursable when incurred for business travel."
+  },
+  {
+    "id": "travel_policy-1",
+    "source": "travel_policy.txt",
+    "chunk_index": 1,
+    "text": "asonable taxi, rideshare, rail, and public transportation expenses are reimbursable when incurred for business travel.\n\nExpense Submission\nTravel expenses should normally be submitted within 15 calendar days after the trip ends."
+  }
+]

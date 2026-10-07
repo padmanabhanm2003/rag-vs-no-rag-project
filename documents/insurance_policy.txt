@@ -1,0 +1,11 @@
+Employee Health Insurance Policy
+Version: 2026.1
+Effective date: January 1, 2026
+
+Medical Plan
+The standard employee medical plan has an annual in-network individual deductible of USD 1,500. The family deductible is USD 3,000.
+
+Preventive care is covered according to the plan's preventive-care provisions. Employees should review the plan summary for specific covered services.
+
+Enrollment
+New employees generally have 30 days from their employment start date to complete benefits enrollment.

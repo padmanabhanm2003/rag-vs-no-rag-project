@@ -1,0 +1,9 @@
+[
+ {"question":"How many days of parental leave are available?","expected_sources":["leave_policy.txt"]},
+ {"question":"What is the travel meal reimbursement limit?","expected_sources":["travel_policy.txt"]},
+ {"question":"How much can an employee claim for a hotel per night?","expected_sources":["travel_policy.txt"]},
+ {"question":"What is the health insurance deductible?","expected_sources":["insurance_policy.txt"]},
+ {"question":"What should I do if I lose my company laptop?","expected_sources":["it_security_policy.txt"]},
+ {"question":"How often must employees change their passwords?","expected_sources":["it_security_policy.txt"]},
+ {"question":"What is the annual performance review cycle?","expected_sources":["hr_policy.txt"]}
+]
